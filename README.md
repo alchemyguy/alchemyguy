@@ -29,7 +29,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/alchemy_guy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="alchemy_guy" /></a></p>
-<a target="__blank" href="https://www.paypal.me/USERNAME/">
+<a target="_blank" href="https://www.paypal.me/alchemyguy/">
   <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
 </a>
 
