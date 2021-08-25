@@ -7,7 +7,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [test](https://dev.to/alchemyguy/test-j9b)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
