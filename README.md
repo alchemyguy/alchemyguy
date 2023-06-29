@@ -27,7 +27,3 @@
   <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
 </a>
 
-<br/>
-<hr/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alchemyguy&show_icons=true&locale=en" alt="alchemyguy" /></p>
-
