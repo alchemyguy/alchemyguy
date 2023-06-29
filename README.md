@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alchemyguy&label=Profile%20views&color=0e75b6&style=flat" alt="alchemyguy" /> </p>
 
-📄  &nbsp; Know about my experiences [https://nomadtechie.com/](https://nomadtechie.com/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <br/>
 
 <h3 align="left">Connect with me:</h3>
